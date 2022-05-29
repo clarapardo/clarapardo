@@ -1,16 +1,15 @@
-### Hi, I'm Clara 👋
+Hi there! 
 
-<!--
-**clarapardo/clarapardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you can find a little bit of everything - repos about WebDev Bootcamp at Ironhack MAD, some challenges that have been proposed to me, or simply, some repos where I explore and play trying to bring to life ideas I have.
 
-Here are some ideas to get you started:
+**You can connect with me through**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://res.cloudinary.com/clarapardo/image/upload/v1653812043/38669_mmos0y.png" alt="LinkedIn" width="20px"/>](www.linkedin.com/in/clara-pardo)
+
+[<img src="https://res.cloudinary.com/clarapardo/image/upload/v1653812203/download-letter-email-round-black-icon-png-11637141030uylbjqjjtf_xydxx0.png" alt="E-mail" width="20px"/>](cpardonistal@gmail.com)
+
+
+**Some of my work**
+
+
+
