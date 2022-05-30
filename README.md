@@ -1,6 +1,6 @@
 ## Hi there! 
 
-Here you can find a bit of everything - repos about my WebDev Bootcamp at Ironhack MAD, some challenges that have been proposed to me, or simply some other repos where I explore and play bringing to life ideas I have.
+Here you can find a bit of everything - repos about my WebDev Bootcamp at Ironhack MAD, some challenges I joined, or simply some other repos where I explore and play bringing to life ideas I have.
 
 <br>
 
