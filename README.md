@@ -12,6 +12,9 @@ Here you can find a bit of everything - repos about my WebDev Bootcamp at Ironha
 <br>
 
 **Some of my work**  
-🔹 **SCENA** : project nº3 Ironhack - [app](https://scena.netlify.app/) | [client side code](https://github.com/clarapardo-ironhack/scena_client2) | [server side code](https://github.com/wablopilson/SCENA_server)  
-🔹 **soundhunter** : project nº2 Ironhack - [app](https://soundhunter.herokuapp.com/) | [code](https://github.com/clarapardo-ironhack/soundhunter-byJC)  
-🔹 **PANG** : project nº1 Ironhack - [app](https://clarapardo-ironhack.github.io/PANG-byHC/) | [code](https://github.com/clarapardo-ironhack/PANG-byHC)  
+• **daily planer**- [app](https://dailyplaner.netlify.app/) | [client side code](https://github.com/clarapardo/dailyPlaner-with-TS_client) | [server side code](https://github.com/clarapardo/dailyPlaner-with-TS_server)
+
+~ While at Ironhack 
+• **SCENA** : project nº3 Ironhack - [app](https://scena.netlify.app/) | [client side code](https://github.com/clarapardo-ironhack/scena_client2) | [server side code](https://github.com/wablopilson/SCENA_server)  
+• **soundhunter** : project nº2 Ironhack - [app](https://soundhunter.herokuapp.com/) | [code](https://github.com/clarapardo-ironhack/soundhunter-byJC)  
+• **PANG** : project nº1 Ironhack - [app](https://clarapardo-ironhack.github.io/PANG-byHC/) | [code](https://github.com/clarapardo-ironhack/PANG-byHC)  
