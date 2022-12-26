@@ -1,6 +1,1 @@
-## Hi there! 
-
-<p style="
-    width: 100%;
-    text-align: right;
-"> Your Text </p>
+<h3 style="text-align: center;">H3 that is center aligned</h3>
