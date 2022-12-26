@@ -1,3 +1,6 @@
 ## Hi there! 
 
-<p style='text-align: right;'> Your Text </p>
+<p style="
+    width: 100%;
+    text-align: right;
+"> Your Text </p>
